@@ -1,3 +1,9 @@
+---
+layout: default
+title: Proposal
+permalink: project_proposal
+---
+
 # CS CAPSTONE
 Spring Semester 2019
 

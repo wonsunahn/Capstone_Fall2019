@@ -1,3 +1,8 @@
+---
+layout: default
+title: Midterm Update
+permalink: project_midterm_update
+---
 # CS CAPSTONE
 Spring Semester 2019
 

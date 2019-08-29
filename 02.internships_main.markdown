@@ -4,13 +4,18 @@ title: CS1900/1950
 permalink: /CS1900_1950/
 ---
 
-## Details on Internship Assignments
+## Your responsibilities
 
-You have two main responsibilities this term:
+You have three responsibilities this term:
 
-1. Schedule a presentation on the work that you did during your internship.  Do this by filing an issue on this repository (click on Issues then "New Issue") with your TOP THREE choices of which date to give your presentation.  Possible presentation dates [can be found following this link]({{site.baseurl}}/internship_presentation_schedule) in this website.  Note you must select a date where INTERNSHIP presentations occur, NOT "RESEARCH" presentations.  You MUST schedule a presentation date by noon on THIS TUESDAY (3 SEPTEMBER) .  REMEMBER TO ADD "INTERNSHIP" TO THE BEGINNING OF YOUR ISSUE TITLE!
+1. Give a 5 minute presentation on the work that you did during your internship or directed research.  Because you have limited time, you will probably need no more than 5 slides.
 
 2. Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (6 DECEMBER).  For details, see [Final Paper]({{site.baseurl}}/final_paper) in this website.
 
+## Presentation Scheduling (IMPORTANT PLEASE READ)
 
-## Details on Research Assignments
+1. CS 1900 internship students must schedule a presentation date on this doodle poll until next FRIDAY (6 SEPTEMBER).  You are to enter your name and select a single preferred date.  There are 9 slots per day and if the slots fill up, you will have to choose another day.  It is first come first serve so if you want a particular date, please sign up as early as possible.
+
+2. CS 1950 directed research students will give their presentations on the last date of class 6 DECEMBER.
+
+3. Presenters must send their presentation slides to me by email (wahn at pitt dot edu) the day before, by Thursday night.  Please use a title that looks like "CS 1900 slides 9/13", where 9/13 should be replaced by your respective dates.

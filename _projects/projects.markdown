@@ -71,7 +71,7 @@ Most web analysis systems are proprietary and heavyweight, meaning that most of 
 
 This project proposes to develop a lightweight open system that does web analysis in the most straightforward and modular way.  It will not hide the implementation and make it available for understanding.  It will be able to be selected as needed and not the heavy-weight requirements. This will be used not only for proper validation, but also as a platform to make web analytics more inclusive.  It should allow for the processing of data without an integration of required hooks that forces users to be locked in simply because of the effort needed to change.  
 
-The application should be developed to provide reusable components that can be used in many types of web analysis as well as other forms of analytics.  We will be using a form of agile software development as it has proven successful in the past for the students as well as the customer. Rather than having to install an application on our systems (which require lots of paperwork, etc.) it would be easier to just have a web-based system that we can use.  One of our first attempts was "too clever" and "too big" to be able to be used and certainly difficult to extend.  
+The application should be developed to provide reusable components that can be used in many types of web analysis as well as other forms of analytics.  We will be using a form of agile software development as it has proven successful in the past for the students as well as the customer. Rather than having to install an application on our systems (which require lots of paperwork, etc.) it would be easier to just have a web-based system that we can use.  
 
 * Team Size: 3 students
 * POC: Mike Bigrigg

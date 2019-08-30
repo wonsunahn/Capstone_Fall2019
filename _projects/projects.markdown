@@ -6,7 +6,7 @@ permalink: /projects/
 # Capstone Project List
 
 
-Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Wednesday (4 September) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BEFORE the next Capstone class on Friday (6 September). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
+Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Thursday (5 September) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BY the next Capstone class on Friday (6 September). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
 
 REMEMBER TO ADD "PROJECT" TO THE BEGINNING OF YOUR ISSUE TITLE!
 
@@ -342,6 +342,13 @@ For this project you will need to:
 * Team Size: 2
 * POC: Aurora Sharrard (Director of Sustainability)
 
+## Automating a robotic cell culture system
+In this project, you will develop a GUI for a computer/phone app that provides control for automation of a robotic cell culture system that was recently developed in my lab (https://www.cell.com/iscience/fulltext/S2589-0042(19)30288-3). The GUI would ideally 1) provide an intuitive wireless interface for uploading/downloading, executing, pausing, and resetting protocols on the robotic system (note that the basic framework for communicating with the system via bluetooth is already in place), and 2) provide an interface that takes as input time courses in an excel-style format and converts them into control commands for the robotic system.  
+
+**Note: If you take this project, you will need to do more than just create a GUI.**
+
+* POC: Dr. Robin Lee, Computational and Systems Biology at the University of Pittsburgh
+* Team size: 1-2 students
 
 ## Bioinformatics-Focused Projects
 
@@ -351,14 +358,10 @@ For this project you will need to:
 In this project you will implement a machine learning approach to automate data extraction from single cells in time-lapse imaging. A recent publication has optimized the approach for images of bacteria (https://www.biorxiv.org/content/10.1101/720615v1). The capstone project would consist of adapting this framework for images of mammalian cells, tracking single cells over time and deferentially monitoring the abundance of fluorescent-protein fusion in the cytoplasm and nucleus.
 
 * POC: Dr. Robin Lee, Computational and Systems Biology at the University of Pittsburgh
-* Team size: 1
+* Team size: 1-2 students
 
 
-## Automating a robotic cell culture system
-In this project, you will develop a GUI for a computer/phone app that provides control for automation of a robotic cell culture system that was recently developed in my lab (https://www.cell.com/iscience/fulltext/S2589-0042(19)30288-3). The GUI would ideally 1) provide an intuitive wireless interface for uploading/downloading, executing, pausing, and resetting protocols on the robotic system (note that the basic framework for communicating with the system via bluetooth is already in place), and 2) provide an interface that takes as input time courses in an excel-style format and converts them into control commands for the robotic system.  
 
-* POC: Dr. Robin Lee, Computational and Systems Biology at the University of Pittsburgh
-* Team size: 1
 
 
 ## Acoustic Monitoring of Frog Populations

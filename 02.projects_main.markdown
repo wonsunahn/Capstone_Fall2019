@@ -4,8 +4,12 @@ title: CS1980/1640
 permalink: /CS1980_1640/
 ---
 
+## Schedule
 
-## What are the expectations for the cs1640, cs1980, or cs1950 project?
+[Check the schedule here]({{site.baseurl}}/projects_schedule).
+
+
+## What are the expectations for the cs1640, cs1980 project?
 
 We expect the project to be doable in 15 weeks. We want projects that touch on at least three areas of computer science (for example, databases, web programming, and operating systems). In the end, we hope the students create something that can be usable. The project must be designed so that within 2-3 weeks the students understand the problem and can begin to make progress towards the goal.  Students are typically taking a full-load of classes and dedicate about 10 hours per week (each team member). An example problem: one term, one team was assigned to modify a large program. It took more than half the semester before the team and the mentor became aware that the project wasn't doable in the time frame with the amount of support given to the team.
 

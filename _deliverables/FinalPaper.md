@@ -25,7 +25,7 @@ Mentors are supposed to be in the loop (read the proposed plan and approve it), 
 
 
 # CS CAPSTONE
-Spring Semester 2019
+Fall Semester 2019
 
 ## FINAL PAPER
 

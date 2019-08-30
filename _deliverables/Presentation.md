@@ -4,10 +4,10 @@ title: Presentation
 permalink: project_presentation
 ---
 
-# CS CAPSTONE
-Spring Semester 2019
+# CS CS1980/CS1640 CAPSTONE
+Fall Semester 2019
 
-## Project Students (CS1980/CS1981/CS1640/BIOSC1640)
+## Project Students (CS1980/CS1640)
 
 Your presentation will be approximately 10 - 15 minutes.   This presentation should generally include a demo of the software on which you worked.
 

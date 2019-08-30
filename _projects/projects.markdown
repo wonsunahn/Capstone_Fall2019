@@ -6,13 +6,13 @@ permalink: /projects/
 # Capstone Project List
 
 
-Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Monday (14 Jan) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BEFORE the next Capstone class on Friday (18 Jan). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
+Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Wednesday (4 September) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BEFORE the next Capstone class on Friday (6 September). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
 
 REMEMBER TO ADD "PROJECT" TO THE BEGINNING OF YOUR ISSUE TITLE!
 
 Along with your selections, please include any qualifications or specific reasons for interest that you have for those specific projects. Remember that you are "interviewing" for the project against others, especially if you have selected popular projects. Students who respond early also show enthusiasm for the projects, which goes a long way to showing that they actually want to do them.
 
-I will attempt to place you in one of your top three choices. Last semester, every student got into one of their top three (and a majority into their #1 choice), although I do not make any guarantees.
+I will attempt to place you in one of your top three choices. Usually, every student gets into one of their top three (and a majority into their #1 choice), although I cannot make any guarantees.
 
 Note: Some of you may be working on private projects. Please file an issue on this repository (as above) but note that you have already been assigned to a project. List the project and the name of the POC (e.g. faculty member or supervisor). If we have not discussed you being placed on a private project, do not put yourself on one.
 

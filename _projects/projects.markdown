@@ -119,7 +119,7 @@ Capstone Outcome/Deliverables
   - Work on an evolving project/platform
   - Demonstrable outcome of work in Unity
 
-* Students: 2
+* Team Size: 2
 
 
 ### Occam: Smarter Search in Workflow Creation
@@ -199,8 +199,8 @@ The students in this project will need to:
   - demo the project 3 weeks before the end of the term, and
   - write a user manual, document the code, and create help functions for the user interface
 
-  * Team Size: 2-3 students
-  * POC: Daniel Mossé
+* Team Size: 2-3 students
+* POC: Daniel Mossé
 
 
 ### Deploying an Internet of Things (IoT) infrastructure with embedded devices
@@ -215,6 +215,43 @@ Faculty Sponsor (Extend of the faculty sponsor supervision, meetings frequency, 
 
 * Team Size: 2 students
 * POC: Henrique Potter
+
+## Data Mining for Helping Students in Scheduling
+This project will make advances in structural educational data mining, analyzing dependencies and pathways for student success, and creating performance prediction models for students.
+The outcome for this project is to create a model of a student’s progress and predict his/her performance going forward, at the course granularity. This allows us to recognize successful and unsuccessful pathways that students take through their undergraduate career, to guide students to maximize their chance to graduate.
+
+
+For example, rather than assuming that students with A/B grades will do well in subsequent courses, we can predict a student’s grade in a particular course in a data-driven way by analyzing their history and comparing with "aggregate students."   Also, we'll try to detect good pathways (eg, 401 should be followed by 445 in the very next semester) and not-so-good pathways (eg, 1502 is taken 2 years after 441).
+
+* Team Size: 2 students
+* POC: Daniel Mosse
+
+
+
+## Smartphone Gps Duty-Cycle For Saving Battery In Navigation
+
+One of the main battery drainers in smartphones is the GPS and maps applications (map app or mapp). While it is true that most mapps are used in a car, and that many times USB connectors can charge phones in the car, while using the mapp. The goal of this project is to reduce the energy consumed by the mapp and other apps that use GPS, by recognizing what the needs of the application are (e.g., duty cycle requirements while walking are different than while driving in a city, which are different than while driving in a highway).
+
+In this project, we'll learn how a GPS works in depth, how to control it, read related literature on how to do adaptive duty cycling of GPS, and propose new algorithms (perhaps based on machine learning?) for better duty cycling. There will be a lot of self-discovery, therefore students should be good at finding information on their own.
+
+Time permitting, we'll also propose algorithms for optimizing navigation by suggesting which lane to use, with the help of the GPS.
+
+* Team Size: 2 students
+* POC: Daniel Mosse
+
+
+## Synthetic Student Generation
+
+Personalized education is an exciting new field that has spawned from the (limited) success of Massively Open Online Courses and other online course offerings from different educational institutions. These courses have generated a plethora of student data, where machine learning models have been created to assist students in a multitude of ways, such as reading/lecture material recommendation, problem solving suggestions, and peer-interaction encouragement. However, not as much research effort has been directed at cross-course interactions, and similarly, not as much data has been published or analyzed.
+
+This project will ask students to develop a tool that generates large synthetic student datasets that span across several courses in a university setting. Real datasets are difficult to obtain in full, due to privacy and confidentiality policies, as well as exclusive research accessibility. A generated synthetic dataset should allow any researcher to simulate a set of students with certain structural and student characteristics that can be specified as part of their parameters, such as course prerequisites, and grade distributions. The resulting datapoint for each student will essentially read like a student's transcript, complete with a student's schedule of courses and the course grade received for each, along with more specific details regarding the student (e.g. demographics) and courses (e.g. which instructor taught the course).
+
+Requirements: Students must have taken at least one of CS 1571 (AI), CS 1656 (Data Science), CS 1675 (Machine Learning), or an equivalent course that may be offered in other departments, or have previous experiences in research in machine learning or data mining.
+
+* Team Size: 2 students
+* POC: Nathan Ong
+
+
 
 
 ### Panos Chrysanthis projects [download]({{ site.baseurl }}/projects/pdfs/Panos_Capstone_Projects.pdf)
@@ -316,8 +353,19 @@ In this project you will implement a machine learning approach to automate data 
 * POC: Dr. Robin Lee, Computational and Systems Biology at the University of Pittsburgh
 * Team size: 1
 
-<!--## Automating a robotic cell culture system
+
+## Automating a robotic cell culture system
 In this project, you will develop a GUI for a computer/phone app that provides control for automation of a robotic cell culture system that was recently developed in my lab (https://www.cell.com/iscience/fulltext/S2589-0042(19)30288-3). The GUI would ideally 1) provide an intuitive wireless interface for uploading/downloading, executing, pausing, and resetting protocols on the robotic system (note that the basic framework for communicating with the system via bluetooth is already in place), and 2) provide an interface that takes as input time courses in an excel-style format and converts them into control commands for the robotic system.  
 
 * POC: Dr. Robin Lee, Computational and Systems Biology at the University of Pittsburgh
-* Team size: 1-->
+* Team size: 1
+
+
+## Acoustic Monitoring of Frog Populations
+
+Justin Kitzes's and his lab, approach very large-scale biodiversity data collection is autonomous acoustic recorders - devices that can be placed in the field, automatically turn on and off, and record all sounds in the surrounding area. These recordings are then processed using machine learning models to identify what species were present at each location.
+
+The lab recorded frog calls in Borneo in collaboration with Jen Sheridan at the Carnegie Museum, and wants to apply some basic machine learning-type analysis. You will be using some methods the lab applied previously to other species to try to identify, as best they can, about 30 species from a few hundred hours of ambient soundscape recordings.
+
+* Team Size: 2-3 students
+* POC: Justin Kitzes

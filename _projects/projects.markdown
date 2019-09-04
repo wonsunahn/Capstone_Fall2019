@@ -372,3 +372,15 @@ The lab recorded frog calls in Borneo in collaboration with Jen Sheridan at the 
 
 * Team Size: 2-3 students
 * POC: Justin Kitzes
+
+
+## Visualization and analysis of adolescents brain fMRI scans
+
+We have recently been performing multi-study analyses of the development of functional brain connectivity through adolescence to understand how brain networks evolve and reconfigure in this time period. This field has had to overcome a lot of methodological challenges due to artifacts and small effect sizes that have led to an interest in multi-site, “big data" studies and replication through open science initiatives. To this end, we been working on analyses combining multiple large, longitudinal studies comprising thousands of fMRI scans of adolescents.  From these, we are interested in charting the developmental trajectories of every functional *connection* in the brain (e.g., the strength of functional interactions between every pair of regions).  This means we have a large number of connections (50k-500k depending on the density of the sampling applied), each with a developmental trajectory as well as various statistical and diagnostic assessments.
+
+The goal of the project would be to build a web interface to allow visualization of this data, both for performing exploratory analyses (e.g., for people interested in a particular region or regions, allow them to quickly identify its developmental role and timing), as well as replication (e.g., for people performing their own developmental studies, determine whether overall patterns replicate in a much larger, multi-site sample).
+
+Technically, what I’d envision is something like a web interface that allows people to select any two brain regions (a la the [Allen brain atlas](http://human.brain-map.org/mri_viewers/data), or [neurosynth](https://neurosynth.org/)), displays information about the regions selected, and either queries a pre-built database (based on analyses we’ve currently been running on the Pittsburgh supercomputing center servers) and executes some optimized analyses in real-time to show information about, e.g., overall developmental patterns, patterns in each of the component studies individually, differential developmental patterns by gender or other demographics, QA metrics such as the effect of head motion on connectivity strength, and potentially more.
+
+* POC: Finnegan Calabro
+* Team Size: 2-3 Students

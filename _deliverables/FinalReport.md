@@ -1,15 +1,12 @@
 ---
 layout: default
 title: Final Paper
-permalink: project_final_paper
+permalink: final_paper
 ---
-
-# CS CS1980/CS1640 CAPSTONE
-Fall Semester 2019
 
 ## FINAL PAPER
 
-This final paper is required for all students in the Capstone.
+This final paper is required for all students in the Capstone, including internship (CS 1900) and research (CS 1950) students.
 
 ## FORMATTING REQUIREMENTS
 
@@ -21,7 +18,7 @@ If you had an internship, you must turn in an individual paper; if in a group, p
 
 ## DETAILS
 
-The final paper should describe what you did for the capstone, and how you did it.  This will obviously vary dramatically based on if you did a research project, a Project Studio project, an internship, etc.  Thus, it is difficult to give a broad-enough description of what is required for all of these.  Consider the following as a list of possible topics to discuss, not as a checklist.
+The final paper should describe what you did for the capstone, and how you did it.  This will obviously vary dramatically based on if you did a research project or an internship.  Thus, it is difficult to give a broad-enough description of what is required for all of these.  Consider the following as a list of possible topics to discuss, not as a checklist.
 
 1. What programming language did you use?  Why?
 2. Were there things about the choice of language you liked?  Disliked?

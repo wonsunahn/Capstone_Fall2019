@@ -10,7 +10,7 @@ You have three responsibilities this term:
 
 1. Give a 5 minute presentation on the work that you did during your internship or directed research.  Because you have limited time, you will probably need no more than 5 slides.
 
-2. Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (6 DECEMBER).  For details, see [Final Paper]({{site.baseurl}}/final_paper) in this website.
+2. Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (6 DECEMBER).  For details, see [Final Paper]({{site.baseurl}}/final_paper) in this website.  The paper should be sent by email to our TA Arun Balajiee (arl122 at pitt dot edu) by midnight of 6 DECEMBER.  Please use a title that looks like "Capstone Final Report" where Joe is your name.
 
 3. Fill in an anonymous peer review form for 5 presentations assigned to you.  The form should be sent by email to our TA Arun Balajiee (arl122 at pitt dot edu) by the night of the presentation.  Please use a title that looks like "Capstone Feedback Joe" where Joe is the name of the presenter.  The median score from the peer review forms will be used as a data point to grade the presentations.  The peer review form and the review assignments will be announced on 6 September.
 
@@ -23,3 +23,7 @@ You have three responsibilities this term:
 2. CS 1950 directed research students will give their presentations on the last date of class 6 DECEMBER.  Please DO NOT participate in the doodle poll.
 
 3. Presenters must send their presentation slides to me by email (wahn at pitt dot edu) the day before, by Thursday midnight.  Please use a title that looks like "Capstone Slides 9/13", where 9/13 should be replaced by your respective dates.  The plan is to have your slide files ready on my laptop so that we can transition faster between presentations.  I have Powerpoint, Keynote, and PDF presentation software installed on my laptop.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.  Another option is to simply convert it to PDF and have it run on my laptop.
+
+## Presentation schedule
+
+[Here is the page]({{site.baseurl}}/internship_presentation_schedule) for the presentation schedule.  Please check your name is assigned the correct date.

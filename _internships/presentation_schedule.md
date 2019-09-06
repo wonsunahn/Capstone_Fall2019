@@ -8,6 +8,9 @@ Note: There will be a maximum of NINE internship/research presentations per clas
 
 The presentations will be given in the order they are listed on the particular date.
 
+## 6 SEP - LECTURE: PRESENTATION AND FEEDBACK
+
+[Please review the slides]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) before giving your presentation.
 
 ## 13 SEP - INTERNSHIP PRESENTATIONS
 

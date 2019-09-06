@@ -9,8 +9,8 @@ Advisor: Jack Lange, Adam Lee
 Status: In progress  
 
 ### Defrank, Ethan L  
-Advisor: TBD  
-Status: TBD  
+Advisor: Bill Garrison  
+Status: Complete (Pending confirmation)  
 
 ### Gu, Tianrun
 Advisor: S.K Chang  
@@ -25,5 +25,5 @@ Advisor: Jack Lange, Adam Lee
 Status: In progress  
 
 ### Yan, Tiruo  
-Advisor: TBD  
+Advisor: Adriana Kovashka  
 Status: Complete (Pending confirmation)  

@@ -69,6 +69,7 @@ Peter O'Hara
 Marcus Beacon  
 Darpun Kohli  
 Andrew Stimmell  
+Kenan Rustamov  
 
 ## 18 OCT - INTERNSHIP PRESENTATIONS
 
@@ -134,6 +135,7 @@ Brandon He
 Teague Cole  
 Chenrui Liu  
 Shaoming Zheng  
+ZhouXin Tian  
 
 ## 29 NOV - THANKSGIVING
 

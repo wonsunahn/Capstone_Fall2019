@@ -27,3 +27,5 @@ You have three responsibilities this term:
 ## Presentation schedule
 
 [Here is the page]({{site.baseurl}}/internship_presentation_schedule) for the presentation schedule.  Please check your name is assigned the correct date.
+
+[Please review the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) before giving your presentation.

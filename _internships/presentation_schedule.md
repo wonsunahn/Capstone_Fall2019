@@ -1,38 +1,144 @@
 ---
 layout: page
+title: CS 1900/1950 Presentation Schedule
 permalink: /internship_presentation_schedule
 ---
 
+Note: There will be a maximum of NINE internship/research presentations per class. Internship presentations should be five minutes long sharp.  I will cut you off at exactly five minutes.  Don't forget to send me your slides by the previous day midnight.
 
-# CS 1900 Presentation Schedule
-
-Note: There will be a maximum of FIVE internship presentations per class. Internship presentations should be five - ten minutes.  For final projects presentations, there will be a maximum of SEVEN final project presentations per class (although these classes are twice as long).  Final project presentations should be ten - fifteen minutes.  Midterm project presentations should be five-ten minutes.
+The presentations will be given in the order they are listed on the particular date.
 
 
-## 18 JAN - INTERNSHIP PRESENTATIONS ONLY
+## 13 SEP - INTERNSHIP PRESENTATIONS
 
-## 25 JAN - NO PRESENTATIONS TODAY
+Sriram Iyer  
+Mark Babatunde  
+Xinke Chen  
+Kevin Wang  
+Andrew Morgan  
+Tom DiCarlo  
+Jack Anderson  
+Nicole Dash  
+Mike Neumann  
 
-## 1 FEB - INTERNSHIP PRESENTATIONS ONLY
+## 20 SEP - INTERNSHIP PRESENTATIONS
 
-## 8 FEB - NO PRESENTATIONS TODAY
+Jarod Latta  
+Richard Xu  
+John Ference  
+Chip Beck  
+David Gorny  
+Dan Cohen  
+Dorian Vesely  
+Linda Zeng  
+Lifan Long  
 
-## 15 FEB - INTERNSHIP PRESENTATIONS ONLY
+## 27 SEP - INTERNSHIP PRESENTATIONS
 
-## 22 FEB - INTERNSHIP PRESENTATIONS ONLY
+Ryan Apsche  
+Cody Grkman  
+Etienne Ayoub  
+Emily Higgs  
+Milo Davis  
+Fatema Quaid  
+Edward Cox  
+Andrea Michael  
+Elijah Kajinic  
 
-## 1 MAR - RESEARCH MIDTERM PRESENTATIONS
+## 4 OCT - INTERNSHIP PRESENTATIONS
 
-## 8 MAR - RESEARCH MIDTERM PRESENTATIONS
+Surbhi Patel  
+Jared Frank  
+Owen Schaefer  
+Austin Ricke  
+Carly Hoffman  
+Samuel Flynn  
+Inna Reznitchenko  
+Casper Cheng  
+Jacob Hauser  
 
-## 15 MAR - SPRING BREAK
+## 11 OCT - INTERNSHIP PRESENTATIONS
 
-## 22 MAR - INTERNSHIP PRESENTATIONS ONLY
+Sarah Rosenblatt  
+Emily Hua  
+Zachary Whitney  
+Peter O'Hara  
+Marcus Beacon  
+Darpun Kohli  
+Andrew Stimmell  
 
-## 29 MAR - INTERNSHIP PRESENTATIONS ONLY
+## 18 OCT - INTERNSHIP PRESENTATIONS
 
-## 5 APR - INTERNSHIP PRESENTATIONS ONLY
+Ali Zaman  
+Mark Filus  
+Brandon Backa  
+Sundar Sampath  
+Brandon Bisceglia  
+Varun Zaver  
+Dilan Ozkaynak  
+Odiche Obiakarije  
+Frank Pasqualini  
 
-## 12 APR - FINAL RESEARCH PRESENTATIONS
+## 25 OCT - INTERNSHIP PRESENTATIONS
 
-## 19 APR - FINAL RESEARCH PRESENTATIONS
+Benjamin Graybill  
+Daniel Mailloux  
+Steven Montalbano  
+Wenyu Li  
+Jon Rutkauskas  
+Michael Hermenault  
+Matthew Tutsock  
+Ben Elkins  
+Justin Kramer  
+
+## 1 NOV - INTERNSHIP PRESENTATIONS
+
+Di Wu  
+Simran Gidwani  
+Lillian Turner  
+Aliyah Flores  
+Connor Berry  
+Alicia St. Hilaire  
+Jiawei Zhuang  
+David Ankin  
+Xingjian Diao  
+
+## 8 NOV - INTERNSHIP PRESENTATIONS
+
+Zachary Smith  
+Mirabel Reid  
+Jacob Gilbert  
+Colin Spratt  
+Justin Deible  
+Caitlin Schmuck  
+Chloe Ciora  
+Nicolas Leo  
+Brad Smith  
+
+## 15 NOV - INTERNSHIP PRESENTATIONS
+
+Austin Murtha  
+Erik Roeckel  
+Corey Catalogna  
+Connor Finucane  
+Connor Tshudy  
+Anastasia Sosnovskikh  
+Yue Hao  
+
+## 22 NOV - INTERNSHIP PRESENTATIONS
+
+Brandon He  
+Teague Cole  
+Chenrui Liu  
+Shaoming Zheng  
+
+## 29 NOV - THANKSGIVING
+
+## 6 DEC - RESEARCH PRESENTATIONS
+
+Boby,Michael J  
+Defrank,Ethan L  
+Gu,Tianrun  
+Munirji,Alan Elias  
+Nixon,Brian Tyrrell  
+Yan,Tiruo  

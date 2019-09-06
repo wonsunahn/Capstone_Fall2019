@@ -1,10 +1,8 @@
 ---
 layout: page
+title: CS 1900/1950 Presentation Schedule
 permalink: /internship_presentation_schedule
 ---
-
-
-# CS 1900 Presentation Schedule
 
 Note: There will be a maximum of NINE internship/research presentations per class. Internship presentations should be five minutes long sharp.  I will cut you off at exactly five minutes.  Don't forget to send me your slides by the previous day midnight.
 

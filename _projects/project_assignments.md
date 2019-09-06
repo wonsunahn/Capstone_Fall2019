@@ -36,6 +36,7 @@ permalink: /project_assignments/
 * Erin Herlihy (emh129)
 * David Stropkey (dms129)
 * Nicholas West (njw26)
+* Ian Patterson (irp10)
 
 
 ### Dynamic performance scaling for heterogeneous processors
@@ -52,9 +53,6 @@ permalink: /project_assignments/
 * Matthew Stropkey (mas682)
 * Jonathan Zhang (jcz18)
 
-
-### Deploying an Internet of Things (IoT) infrastructure with embedded devices
-* Ian Patterson (irp10)
 
 ### Data Mining for Helping Students in Scheduling
 * Matthew Thomas (mtd38)

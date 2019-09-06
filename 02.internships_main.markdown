@@ -10,13 +10,13 @@ You have three responsibilities this term:
 
 1. Give a 5 minute presentation on the work that you did during your internship or directed research.  Because you have limited time, you will probably need no more than 5 slides.
 
-2. Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (6 DECEMBER).  For details, see [Final Paper]({{site.baseurl}}/final_paper) in this website.  The paper should be sent by email to our TA Arun Balajiee (arl122 at pitt dot edu) by midnight of 6 DECEMBER.  Please use a title that looks like "Capstone Final Report" where Joe is your name.
+2. Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (6 DECEMBER).  For details, see [Final Paper]({{site.baseurl}}/final_paper) on this website.  The paper should be sent by email to our TA Arun Balajiee (arl122 at pitt dot edu) by midnight of 6 DECEMBER.  Please use a title that looks like "Capstone Final Report" where Joe is your name.
 
-3. Fill in an anonymous peer review form for 5 presentations assigned to you.  The form should be sent by email to our TA Arun Balajiee (arl122 at pitt dot edu) by the night of the presentation.  Please use a title that looks like "Capstone Feedback Joe" where Joe is the name of the presenter.  The median score from the peer review forms will be used as a data point to grade the presentations.  The peer review form and the review assignments will be announced on 6 September.
+3. Fill in an anonymous peer review form for 5 presentations assigned to you.  Please use the [Peer Review Form]({{site.baseurl}}/internships/review_form.txt) on this website.  The form should be sent by email to our TA Arun Balajiee (arl122 at pitt dot edu) by the night of the presentation.  Please use a title that looks like "Capstone Feedback Joe" where Joe is the name of the presenter.  The median score from the peer review forms will be used as a data point to grade the presentations.  The peer review form and the review assignments will be announced on 6 September.
 
 4. CS 1950 directed research students are responsible for maintaining a [github](https://github.com) repository for the code that they are writing.  You should add your research advisor and me as collaborators (my github ID is wonsunahn).  You should do regular commits of your work, at least on a bi-weekly basis.  Your github will be used to track your progress by both me and your advisor.
 
-## Presentation Organization (IMPORTANT)
+## Presentation organization (IMPORTANT)
 
 1. CS 1900 internship students must schedule a presentation date on this [DOODLE POLL](https://doodle.com/poll/fwbkupkkwrbznu5a) until next TUESDAY (3 SEPTEMBER).  You are to enter your name and select a single preferred date.  There are 9 slots per day and if the slots fill up, you will have to choose another day.  It is first come first serve so if you want a particular date, please sign up as early as possible.
 
@@ -27,3 +27,5 @@ You have three responsibilities this term:
 ## Presentation schedule
 
 [Here is the page]({{site.baseurl}}/internship_presentation_schedule) for the presentation schedule.  Please check your name is assigned the correct date.
+
+[Please review the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) before giving your presentation.

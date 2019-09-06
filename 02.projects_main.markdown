@@ -4,6 +4,9 @@ title: CS1980/1640
 permalink: /CS1980_1640/
 ---
 
+## Project Assignments
+[Check the assignments here.]({{site.baseurl}}/project_assignments)
+
 ## Schedule
 
 [Check the schedule here]({{site.baseurl}}/projects_schedule).

@@ -9,7 +9,7 @@ Fall Semester 2019
 
 ## PROPOSAL PAPER
 
-This proposal paper is required for all students in the *project* sections of the Capstone (CS1980, CS1640).
+This proposal paper is required for all students in the *project* sections of the Capstone (CS1980, CS1640m and BIOSC1640).
 
 It is not required for students in the internship or research sections (CS1900, CS1950).
 

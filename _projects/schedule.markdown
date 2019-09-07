@@ -13,7 +13,7 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 |Date          | Topic                                                           |
 |--------------+-----------------------------------------------------------------|
 | August   30  | Introduction and Project selection |
-| September 6  | Presentation 1 - project begins |
+| September 6  | [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) - project begins |
 | September 13 | Presentation 2 - Project proposal due (one per group) |
 | September 20 | Presentation 3 - Retrospective 1 |
 | September 27 | Talk TBD and Meeting time |

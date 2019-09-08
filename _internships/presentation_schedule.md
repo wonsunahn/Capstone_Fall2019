@@ -26,8 +26,8 @@ Mike Neumann
 
 ## 20 SEP - INTERNSHIP PRESENTATIONS
 
-Jarod Latta  
 Richard Xu  
+Jarod Latta  
 John Ference  
 Chip Beck  
 David Gorny  

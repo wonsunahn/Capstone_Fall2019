@@ -10,15 +10,15 @@ Status: In progress
 
 ### Defrank, Ethan L  
 Advisor: Bill Garrison  
-Status: Complete (Pending confirmation)  
+Status: Complete  
 
 ### Gu, Tianrun
 Advisor: S.K Chang  
-Status: Complete (Pending confirmation) 
+Status: Complete 
 
 ### Munirji, Alan Elias  
 Advisor: Robin E. C. Lee  
-Status: Complete (Pending confirmation)  
+Status: Complete  
 
 ### Nixon, Brian Tyrrell  
 Advisor: Jack Lange, Adam Lee  

@@ -14,11 +14,6 @@ permalink: /project_assignments/
 * Matthew Klaczak (mck70)
 * Nicholas Zelazny (naz30)
 * Wenqian Zhao (wez77)
-
-
-
-### Viz - Lightweight Open Web Analysis
-* Alexander Kim (adk67)
 * Jingyi Lu (jil222)
 
 
@@ -57,6 +52,7 @@ permalink: /project_assignments/
 ### Data Mining for Helping Students in Scheduling
 * Matthew Thomas (mtd38)
 * Ruth Dereje (rud6)
+* Alexander Kim (adk67)
 
 
 ### Smartphone Gps Duty-Cycle For Saving Battery In Navigation

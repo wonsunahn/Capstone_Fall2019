@@ -16,7 +16,7 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 | September 6  | [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) - project begins |
 | September 13 | Presentation 2 - Project proposal due (one per group) |
 | September 20 | Presentation 3 - Retrospective 1 |
-| September 27 | Talk TBD and Meeting time |
+| September 27 | Talk - Digital preservation and ethics - and Meeting time |
 | October 4    | Panel TBD and Retrospective 2 |
 | October 11   | Talk TBD and Meeting Time |
 | October 18   | Midterm update and presentations **MUST INCLUDE FUNCTIONAL DEMO** |

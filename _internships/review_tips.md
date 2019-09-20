@@ -43,5 +43,5 @@ Here are some pluses (+) and minuses (-) I found with your presentation:
 
 -------------------- End Comment Section --------------------
 
-DISCLAIMER: This feedback does not pertain to any specific presenter.  It was cooked up for the purposes of demonstration.
+DISCLAIMER: This feedback does not pertain to any specific presenter.  It was cooked up for the sole purposes of demonstration.
 

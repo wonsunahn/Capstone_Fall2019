@@ -18,7 +18,7 @@ A review must contain at minimum contain the following to be complete:
 
 Feedback is most useful when:
 
-1. It is constructive.  Intead of focusing on what the presenter did wrong, focus on ways he/she could improve.
+1. It is constructive.  Intead of focusing on what went wrong, focus on ways to improve.
 
 1. It is specific.  Vague comments like: "It was an interesting talk" or "It was hard to understand" are not helpful.  You must explain specifically what in the talk was interesting and what bullet point on what slide was hard to understand.
 

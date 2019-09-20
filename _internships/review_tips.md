@@ -32,7 +32,7 @@ Here are some pluses (+) and minuses (-) I found with your presentation:
 \+ You were engaging with the audience and mixing in some humor helped.  
 \+ You made good eye contact with the entire room.  
 \+ You spoke clearly and with good pacing.  
-\+ I could feel your excitement with the work that you did which was infectious.
+\+ I could feel your excitement with the work that you did which was infectious.  
 \+ You explanation of technology X was clear and concise.  
 \- You used technical terms like X and Y that you did not explain.  
 \- You had a picture on Slide 4 that you did not refer to and it was hard to understand why it was there.  

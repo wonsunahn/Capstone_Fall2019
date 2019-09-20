@@ -26,6 +26,8 @@ Obviously, to write good feedback, it is mandatory you take notes during the tal
 
 ## Example of good feedback
 
+-------------------- Begin Comment Section --------------------
+
 Here are some pluses (+) and minuses (-) I found with your presentation:  
 \+ You were engaging with the audience and mixing in some humor helped.  
 \+ You made good eye contact with the entire room.  
@@ -39,5 +41,7 @@ Here are some pluses (+) and minuses (-) I found with your presentation:
 
 (End with a few feel good comments.)
 
-* DISCLAIMER: This feedback does not pertain to any specific presenter.  It was cooked up for the purposes of demonstration.
+-------------------- End Comment Section --------------------
+
+DISCLAIMER: This feedback does not pertain to any specific presenter.  It was cooked up for the purposes of demonstration.
 

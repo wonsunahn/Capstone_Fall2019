@@ -18,17 +18,9 @@ You have three responsibilities this term:
 
 ## Presentation organization (IMPORTANT)
 
-1. CS 1900 internship students must schedule a presentation date on this [DOODLE POLL](https://doodle.com/poll/fwbkupkkwrbznu5a) until next TUESDAY (3 SEPTEMBER).  You are to enter your name and select a single preferred date.  There are 9 slots per day and if the slots fill up, you will have to choose another day.  It is first come first serve so if you want a particular date, please sign up as early as possible.
-
-2. CS 1950 directed research students will give their presentations on the last date of class 6 DECEMBER.  Please DO NOT participate in the doodle poll.
-
+1. The doodle poll is over.  The finalized schedule is [at this page]({{site.baseurl}}/internship_presentation_schedule).
+2. Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and [the peer review form]({{site.baseurl}}/internships/review_form.txt) before giving your presentation.  The review form will remind you of what you are being assessed on.
 3. Presenters must submit their presentation slides to courseweb the day before, by Thursday midnight.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.  Please note that the classroom A/V system only allows HDMI connections.
-
-## Presentation schedule
-
-[Here is the page]({{site.baseurl}}/internship_presentation_schedule) for the presentation schedule.
-
-Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and [the peer review form]({{site.baseurl}}/internships/review_form.txt) before giving your presentation.  The review form will remind you of what you are being assessed on.
 
 ## Peer review assignments
 
@@ -36,4 +28,6 @@ Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_
 
 You should have gotten your respective reviewer IDs by individual email.
 
-Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf), [the peer review form]({{site.baseurl}}/internships/review_form.txt), and [tips for writing a good review]({{site.baseurl}}/review_tips) before writing a review.  The review must contain a project summary, all scoring, and at least one comment to be counted as a complete review.
+## Peer review tips and requirements
+
+Please review [tips for writing a good review]({{site.baseurl}}/review_tips) [the lecture on presentations] and [the peer review form]({{site.baseurl}}/internships/review_form.txt) before writing a review.

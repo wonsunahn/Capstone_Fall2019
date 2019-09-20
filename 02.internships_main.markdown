@@ -30,4 +30,4 @@ You should have gotten your respective reviewer IDs by individual email.
 
 ## Peer review tips and requirements
 
-Please review [tips for writing a good review]({{site.baseurl}}/review_tips) [the lecture on presentations] and [the peer review form]({{site.baseurl}}/internships/review_form.txt) before writing a review.
+Please review [tips for writing a good review]({{site.baseurl}}/review_tips) and [the peer review form]({{site.baseurl}}/internships/review_form.txt) before writing a review.

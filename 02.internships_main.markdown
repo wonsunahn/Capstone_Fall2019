@@ -36,4 +36,4 @@ Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_
 
 You should have gotten your respective reviewer IDs by individual email.
 
-Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf), [the peer review form]({{site.baseurl}}/internships/review_form.txt), and [tips for writing a good review]({{site.baseurl}}/internships/review_tips) before writing a review.  The review must contain a project summary, all scoring, and at least one comment to be counted as a complete review.
+Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf), [the peer review form]({{site.baseurl}}/internships/review_form.txt), and [tips for writing a good review]({{site.baseurl}}/review_tips) before writing a review.  The review must contain a project summary, all scoring, and at least one comment to be counted as a complete review.

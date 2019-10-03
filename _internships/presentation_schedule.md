@@ -135,7 +135,7 @@ Teague Cole
 Chenrui Liu  
 Shaoming Zheng  
 ZhouXin Tian  
-Darius Ramavarapu
+Darius Ramavarapu  
 Fatema Quaid
 
 ## 29 NOV - THANKSGIVING

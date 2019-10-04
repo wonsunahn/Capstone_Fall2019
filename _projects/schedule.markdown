@@ -17,13 +17,13 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 | September 13 | Presentation 2 - Project proposal due (one per group) |
 | September 20 | Presentation 3 - Retrospective 1 |
 | September 27 | Talk - Digital preservation and ethics by wilkie - and Meeting time |
-| October 4    | Panel TBD and Retrospective 2 |
+| October 4    | Presentation 4 - Retrospective 2 |
 | October 11   | Talk - Bill Laboon - and Meeting Time |
-| October 18   | Midterm update and presentations **MUST INCLUDE FUNCTIONAL DEMO** |
-| October 25   | Panel TBD and Retrospective 3 |
-| November 1   | Talk TBD and Meeting Time |
-| November 8   | Panel TBD and Retrospective 4 |
-| November 15  | Talk TBD and Meeting Time |
-| November 22  | Presentations -> Retrospective 5  **ALL STUDENTS: FINAL PAPERS DUE** |
+| October 18   | Presentation 5 and Retrospective 3 |
+| October 25   | Midterm update and presentations **MUST INCLUDE FUNCTIONAL DEMO** |
+| November 1   | Talk TBD and Retrospective 4 |
+| November 8   | Talk TBD and Meeting Time |
+| November 15  | Talk TBD and Retrospective 5 |
+| November 22  | Presentations   **ALL STUDENTS: FINAL PAPERS DUE** |
 | November 29  | Thanksgiving break |
 | December 6   | Presentations |

@@ -43,7 +43,6 @@ Cody Grkman
 Etienne Ayoub  
 Emily Higgs  
 Milo Davis  
-Fatema Quaid  
 Edward Cox  
 Andrea Michael  
 Elijah Kajinic  
@@ -137,6 +136,7 @@ Chenrui Liu
 Shaoming Zheng  
 ZhouXin Tian  
 Darius Ramavarapu  
+Fatema Quaid
 
 ## 29 NOV - THANKSGIVING
 

@@ -1,3 +1,5 @@
 _site
 *.scssc
 Gemfile.lock
+
+.DS_Store

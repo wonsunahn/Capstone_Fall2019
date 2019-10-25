@@ -42,6 +42,8 @@ The final paper should describe what you did for the capstone, and how you did i
 
 In general, what I would like to see is a good understanding of what you did, and what you learned, doing the work for the capstone.  If you worked on anything sensitive (e.g., for a government contractor or private data for a company), you do not need to refer to it in your write-up.  If there is any doubt, you may wish to show your supervisor the paper so that they may review it before turning it in.
 
+[Please read these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) if you want more hints.  Most of the things I said about presentations is also relevant to the report, and also there is an example outline of the report on the final slide.  Feel free to use your own organization if you'd like but it should contain all the major components.
+
 ## Other
 
 Please feel free to email me or come to office hours to discuss any problems you have.

@@ -8,26 +8,34 @@ permalink: /CS1900_1950/
 
 You have three responsibilities this term:
 
-1. Give a 5 minute presentation on the work that you did during your internship or directed research.  Because you have limited time, you will probably need no more than 5 slides.
+1. Give a 5 minute presentation on the work that you did during your internship or directed research.  Because you have limited time, you will probably need no more than 5 slides.  See below Presentation organization.
 
-2. Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (6 DECEMBER).  For details, see [Final Paper]({{site.baseurl}}/final_paper) on this website.  The paper should be sent by email to our TA Arun Balajiee (arl122 at pitt dot edu) by midnight of 6 DECEMBER.  Please use a title that looks like "Capstone Final Report" where Joe is your name.
+2. Write a final paper.  See below Final paper organization.
 
-3. Fill in an anonymous peer review form for 5 presentations assigned to you.  Please use the [Peer Review Form]({{site.baseurl}}/internships/review_form.txt) on this website.  The form should be submitted to courseweb by the midnight of the presentation (Friday midnight).  The median score from the peer review forms will be used as a data point to grade the presentations.  
+3. Fill in an anonymous peer review form for 5 presentations assigned to you.  See below Peer review organization.
 
-4. CS 1950 directed research students are responsible for maintaining a [github](https://github.com) repository for the code that they are writing.  You should add your research advisor and me as collaborators (my github ID is wonsunahn).  You should do regular commits of your work, at least on a bi-weekly basis.  Your github will be used to track your progress by both me and your advisor.
+4. CS 1950 directed research students will send weekly reports to me and their respective advisors by email.
 
-## Presentation organization (IMPORTANT)
+5. Attend the class regularly.
+
+## Presentation organization
 
 1. The doodle poll is over.  The finalized schedule is [at this page]({{site.baseurl}}/internship_presentation_schedule).
-2. Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and [the peer review form]({{site.baseurl}}/internships/review_form.txt) before giving your presentation.  The review form will remind you of what you are being assessed on.
+2. Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and [these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before giving your presentation.  You might also want to look at [the peer review Form]({{site.baseurl}}/internships/review_form.txt).  The review form will remind you of what you are being assessed on.
 3. Presenters must submit their presentation slides to courseweb the day before, by Thursday midnight.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.  Please note that the classroom A/V system only allows HDMI connections.
 
-## Peer review assignments
+## Final paper organization
+
+Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (6 DECEMBER).  For details, see [Final Paper]({{site.baseurl}}/final_paper) on this website.  The paper should be submitted to courseweb by midnight of 6 DECEMBER.  PDF format is preferred.
+
+[Please read these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before writing the report.  Most of the things I said about presentations is also relevant to the report, and also there is an example outline of the report on the final slide.  Feel free to use your own organization but the outline lists major components of the report.
+
+## Peer review organization
+
+Fill in an anonymous peer review form for 5 presentations assigned to you.  Please use the [Peer Review Form]({{site.baseurl}}/internships/review_form.txt) on this website.  The form should be submitted to courseweb by Saturday midnight the day after the presentation with the file name PresenterName_ReviewerID.txt.  You can view the presentation slides on TopHat while writing the review.  Please review [tips for writing a good review]({{site.baseurl}}/review_tips).
+
+The median score from the peer review forms will be used as a data point to grade the presentations.
 
 [Here is the PDF]({{site.baseurl}}/internships/capstone_assignments_public.pdf) for the peer review assignments.
 
 You should have gotten your respective reviewer IDs by individual email.
-
-## Peer review tips and requirements
-
-Please review [tips for writing a good review]({{site.baseurl}}/review_tips) and [the peer review form]({{site.baseurl}}/internships/review_form.txt) before writing a review.

@@ -10,7 +10,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## 6 SEP - LECTURE: PRESENTATION AND FEEDBACK
 
-[Please review the slides]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) before giving your presentation.
+[Please review the slides]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and also [these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before giving your presentation.
 
 ## 13 SEP - INTERNSHIP PRESENTATIONS
 

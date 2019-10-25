@@ -91,7 +91,6 @@ Wenyu Li
 Jon Rutkauskas  
 Michael Hermenault  
 Matthew Tutsock  
-Ben Elkins  
 Justin Kramer  
 
 ## 1 NOV - INTERNSHIP PRESENTATIONS
@@ -136,7 +135,8 @@ Chenrui Liu
 Shaoming Zheng  
 ZhouXin Tian  
 Darius Ramavarapu  
-Fatema Quaid
+Fatema Quaid  
+Ben Elkins  
 
 ## 29 NOV - THANKSGIVING
 

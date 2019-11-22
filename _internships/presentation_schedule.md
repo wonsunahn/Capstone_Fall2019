@@ -130,8 +130,7 @@ Yue Hao
 ## 22 NOV - INTERNSHIP PRESENTATIONS
 
 Brandon He  
-Teague Cole  
-Chenrui Liu  
+Teague Cole   
 Shaoming Zheng  
 ZhouXin Tian  
 Darius Ramavarapu  
@@ -142,6 +141,7 @@ Ben Elkins
 
 ## 6 DEC - RESEARCH PRESENTATIONS
 
+Chenrui Liu  
 Boby,Michael J  
 Defrank,Ethan L  
 Gu,Tianrun  

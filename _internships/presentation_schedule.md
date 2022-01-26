@@ -141,10 +141,10 @@ Ben Elkins
 
 ## 6 DEC - RESEARCH PRESENTATIONS
 
-Chenrui Liu  
+Yan,Tiruo  
 Boby,Michael J  
 Defrank,Ethan L  
 Gu,Tianrun  
 Munirji,Alan Elias  
 Nixon,Brian Tyrrell  
-Yan,Tiruo  
+Chenrui Liu  
